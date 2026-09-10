@@ -24,6 +24,8 @@ def main():
     if os.path.exists(VIDEOS):
         with open(VIDEOS) as f:
             videos = json.load(f)
+        # drop editorial/comment keys (e.g. "_comment")
+        videos = {k: v for k, v in videos.items() if not k.startswith("_")}
 
     meta = dict(cj.get("meta", {}))
     meta.setdefault("subject", "Mathematics")

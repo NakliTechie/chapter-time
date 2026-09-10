@@ -1,0 +1,10 @@
+{
+  "_comment": "Curated, kid-safe video lessons keyed by abhyas concept id. Each id verified via YouTube oembed (real + embeddable) and taken from an official/reputable channel. Reviewed by a human before shipping. Edit freely; run tools/build-data.py to fold into data/chapters-k5.js.",
+  "k5-num-count-20":       { "youtubeId": "RGpQcce_fMg", "title": "I Can Count to Twenty — Numberblocks", "channel": "Numberblocks" },
+  "k5-num-skip-count":     { "youtubeId": "q_yUC1NCFkE", "title": "Skip Count by 2s, 5s and 10s — Jack Hartmann", "channel": "Jack Hartmann" },
+  "k5-ads-add-20":         { "youtubeId": "AK0NZITv5Ns", "title": "Adding within 20 (make a group of ten) — Khan Academy", "channel": "Khan Academy" },
+  "k5-ads-sub-20":         { "youtubeId": "9McJ3GobPaY", "title": "Subtracting within 20 (14 − 6) — Khan Academy", "channel": "Khan Academy" },
+  "k5-geo-2d-shapes":      { "youtubeId": "aRCt9Ch7oR0", "title": "2D Shapes Are Everywhere — Jack Hartmann", "channel": "Jack Hartmann" },
+  "k5-tim-days-months":    { "youtubeId": "zJRIo89q9Qo", "title": "7 Days of the Week Song — Jack Hartmann", "channel": "Jack Hartmann" },
+  "k5-fra-halves-quarters":{ "youtubeId": "Z3SyYL60ELQ", "title": "Fractions for Kids: Halves & Fourths — Khan Academy Kids", "channel": "Khan Academy Kids" }
+}
