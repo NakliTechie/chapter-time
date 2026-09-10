@@ -29,5 +29,18 @@
   "k5-mea-length-convert":  { "youtubeId": "KLWWCr3utp0", "title": "Converting Metres & Centimetres — Periwinkle", "channel": "Periwinkle" },
   "k5-mea-weight-convert":  { "youtubeId": "xcLcO5UVuAw", "title": "Converting Kilograms & Grams — Periwinkle", "channel": "Periwinkle" },
   "k5-mea-capacity-convert":{ "youtubeId": "b3rcIj-geuY", "title": "Litres & Millilitres — Periwinkle", "channel": "Periwinkle" },
-  "k5-dat-bar-graph":       { "youtubeId": "J2DKgCf353k", "title": "Bar Graphs — Periwinkle", "channel": "Periwinkle" }
+  "k5-dat-bar-graph":       { "youtubeId": "J2DKgCf353k", "title": "Bar Graphs — Periwinkle", "channel": "Periwinkle" },
+
+  "k5-fam-factors":            { "youtubeId": "0IZyGB1qQmM", "title": "Factors and Multiples — Periwinkle", "channel": "Periwinkle" },
+  "k5-fam-multiples":          { "youtubeId": "0IZyGB1qQmM", "title": "Factors and Multiples — Periwinkle", "channel": "Periwinkle" },
+  "k5-fam-prime-factorisation":{ "youtubeId": "lRN63PPCnxs", "title": "Prime Factorisation — Periwinkle", "channel": "Periwinkle" },
+  "k5-fam-hcf":                { "youtubeId": "GpiCwG9d4Mk", "title": "HCF (Highest Common Factor) — Periwinkle", "channel": "Periwinkle" },
+  "k5-fam-lcm":                { "youtubeId": "OqnCOi4Al7E", "title": "LCM (Lowest Common Multiple) — Periwinkle", "channel": "Periwinkle" },
+  "k5-dec-add":                { "youtubeId": "N2v8KD3jDB8", "title": "Adding & Subtracting Decimals — Periwinkle", "channel": "Periwinkle" },
+  "k5-dec-sub":                { "youtubeId": "N2v8KD3jDB8", "title": "Adding & Subtracting Decimals — Periwinkle", "channel": "Periwinkle" },
+  "k5-par-perimeter-rect":     { "youtubeId": "NwO363dyeOg", "title": "Perimeter — Periwinkle", "channel": "Periwinkle" },
+  "k5-par-area-count":         { "youtubeId": "AfT-7AlVVyw", "title": "Area — Periwinkle", "channel": "Periwinkle" },
+  "k5-par-area-rect":          { "youtubeId": "E3xWiVYba3A", "title": "Area of Square & Rectangle — Periwinkle", "channel": "Periwinkle" },
+  "k5-pat-number-rules":       { "youtubeId": "82Zh3PTm4yI", "title": "Number Patterns — Periwinkle", "channel": "Periwinkle" },
+  "k5-pat-repeating":          { "youtubeId": "q2d2Dy96UPw", "title": "Patterns (Repeating & Growing) — Periwinkle", "channel": "Periwinkle" }
 }
