@@ -24,5 +24,10 @@
   "k5-mea-weight-units":   { "youtubeId": "W81F_B1Kwhc", "title": "Grams & Kilograms — Periwinkle", "channel": "Periwinkle" },
   "k5-mea-capacity-units": { "youtubeId": "XOvxggo3Re8", "title": "Capacity: Millilitres & Litres — FuseSchool", "channel": "FuseSchool" },
   "k5-dat-tally":          { "youtubeId": "-pEA3w8SQws", "title": "Tally Marks & Tally Charts — Kids Academy", "channel": "Kids Academy" },
-  "k5-dat-pictograph":     { "youtubeId": "c4G6UE5f3Ro", "title": "Pictographs — Periwinkle", "channel": "Periwinkle" }
+  "k5-dat-pictograph":     { "youtubeId": "c4G6UE5f3Ro", "title": "Pictographs — Periwinkle", "channel": "Periwinkle" },
+
+  "k5-mea-length-convert":  { "youtubeId": "KLWWCr3utp0", "title": "Converting Metres & Centimetres — Periwinkle", "channel": "Periwinkle" },
+  "k5-mea-weight-convert":  { "youtubeId": "xcLcO5UVuAw", "title": "Converting Kilograms & Grams — Periwinkle", "channel": "Periwinkle" },
+  "k5-mea-capacity-convert":{ "youtubeId": "b3rcIj-geuY", "title": "Litres & Millilitres — Periwinkle", "channel": "Periwinkle" },
+  "k5-dat-bar-graph":       { "youtubeId": "J2DKgCf353k", "title": "Bar Graphs — Periwinkle", "channel": "Periwinkle" }
 }
