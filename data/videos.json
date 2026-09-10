@@ -6,5 +6,14 @@
   "k5-ads-sub-20":         { "youtubeId": "9McJ3GobPaY", "title": "Subtracting within 20 (14 − 6) — Khan Academy", "channel": "Khan Academy" },
   "k5-geo-2d-shapes":      { "youtubeId": "aRCt9Ch7oR0", "title": "2D Shapes Are Everywhere — Jack Hartmann", "channel": "Jack Hartmann" },
   "k5-tim-days-months":    { "youtubeId": "zJRIo89q9Qo", "title": "7 Days of the Week Song — Jack Hartmann", "channel": "Jack Hartmann" },
-  "k5-fra-halves-quarters":{ "youtubeId": "Z3SyYL60ELQ", "title": "Fractions for Kids: Halves & Fourths — Khan Academy Kids", "channel": "Khan Academy Kids" }
+  "k5-fra-halves-quarters":{ "youtubeId": "Z3SyYL60ELQ", "title": "Fractions for Kids: Halves & Fourths — Khan Academy Kids", "channel": "Khan Academy Kids" },
+
+  "k5-num-names-100":      { "youtubeId": "CRQdhS1TJdo", "title": "Number Words 1–100 — Jack Hartmann", "channel": "Jack Hartmann" },
+  "k5-num-compare-100":    { "youtubeId": "q4RiCfDvsGc", "title": "Greater Than & Less Than (Mrs. Alligator) — Jack Hartmann", "channel": "Jack Hartmann" },
+  "k5-num-odd-even":       { "youtubeId": "8JFtdMDjNy8", "title": "Even & Odd Numbers (Dance & Freeze) — Jack Hartmann", "channel": "Jack Hartmann" },
+  "k5-num-pv-2digit":      { "youtubeId": "Zt78cFS5isQ", "title": "The Place Value Song (Tens & Ones) — Jack Hartmann", "channel": "Jack Hartmann" },
+  "k5-mud-mult-repeated":  { "youtubeId": "_zlHw_g4bJI", "title": "Arrays and Multiplication — Numberblocks", "channel": "Numberblocks" },
+  "k5-mud-div-share":      { "youtubeId": "KGMf314LUc0", "title": "Basic Division — Math Antics", "channel": "Math Antics" },
+  "k5-geo-3d-solids":      { "youtubeId": "zPZegz690Mg", "title": "3D Shapes Song — Jack Hartmann", "channel": "Jack Hartmann" },
+  "k5-tim-clock-hour":     { "youtubeId": "g6tJAy_7AL4", "title": "Hip-Hop Around the Clock (Telling Time) — Jack Hartmann", "channel": "Jack Hartmann" }
 }
