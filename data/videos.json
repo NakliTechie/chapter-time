@@ -15,5 +15,14 @@
   "k5-mud-mult-repeated":  { "youtubeId": "_zlHw_g4bJI", "title": "Arrays and Multiplication — Numberblocks", "channel": "Numberblocks" },
   "k5-mud-div-share":      { "youtubeId": "KGMf314LUc0", "title": "Basic Division — Math Antics", "channel": "Math Antics" },
   "k5-geo-3d-solids":      { "youtubeId": "zPZegz690Mg", "title": "3D Shapes Song — Jack Hartmann", "channel": "Jack Hartmann" },
-  "k5-tim-clock-hour":     { "youtubeId": "g6tJAy_7AL4", "title": "Hip-Hop Around the Clock (Telling Time) — Jack Hartmann", "channel": "Jack Hartmann" }
+  "k5-tim-clock-hour":     { "youtubeId": "g6tJAy_7AL4", "title": "Hip-Hop Around the Clock (Telling Time) — Jack Hartmann", "channel": "Jack Hartmann" },
+
+  "k5-mon-identify":       { "youtubeId": "4qP2bhXn2Ok", "title": "Money: Coins & Notes (₹) — Periwinkle", "channel": "Periwinkle" },
+  "k5-mon-add-sub":        { "youtubeId": "_GxqcNWTxic", "title": "Adding Rupees & Paise — Periwinkle", "channel": "Periwinkle" },
+  "k5-mea-compare-length": { "youtubeId": "1prAO1KOXiE", "title": "Longer & Shorter — Periwinkle", "channel": "Periwinkle" },
+  "k5-mea-length-units":   { "youtubeId": "sFr7o9X-Iwc", "title": "Centimetres, Metres & Kilometres — Periwinkle", "channel": "Periwinkle" },
+  "k5-mea-weight-units":   { "youtubeId": "W81F_B1Kwhc", "title": "Grams & Kilograms — Periwinkle", "channel": "Periwinkle" },
+  "k5-mea-capacity-units": { "youtubeId": "XOvxggo3Re8", "title": "Capacity: Millilitres & Litres — FuseSchool", "channel": "FuseSchool" },
+  "k5-dat-tally":          { "youtubeId": "-pEA3w8SQws", "title": "Tally Marks & Tally Charts — Kids Academy", "channel": "Kids Academy" },
+  "k5-dat-pictograph":     { "youtubeId": "c4G6UE5f3Ro", "title": "Pictographs — Periwinkle", "channel": "Periwinkle" }
 }
