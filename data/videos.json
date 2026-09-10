@@ -429,5 +429,85 @@
     "youtubeId": "lJ-tD9SbNWc",
     "title": "Subtracting Unlike Fractions — Periwinkle",
     "channel": "Periwinkle"
+  },
+  "k5-ads-add-2digit": {
+    "youtubeId": "xvl5JuySlm8",
+    "title": "Adding 2-Digit Numbers — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-ads-add-2digit-carry": {
+    "youtubeId": "xvl5JuySlm8",
+    "title": "Adding 2-Digit Numbers with Carrying — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-ads-sub-2digit": {
+    "youtubeId": "jtU-jFCp80I",
+    "title": "Subtracting 2-Digit Numbers — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-ads-sub-2digit-borrow": {
+    "youtubeId": "jtU-jFCp80I",
+    "title": "Subtracting 2-Digit Numbers with Borrowing — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-ads-estimate": {
+    "youtubeId": "E_I_rJWf3zI",
+    "title": "Estimating Sums & Differences — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-num-before-after": {
+    "youtubeId": "DhJLbCIT9Ng",
+    "title": "Before, After & Between Numbers — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-mud-long-div-1": {
+    "youtubeId": "PFfcC6MO660",
+    "title": "Long Division (by 1-digit) — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-dec-fraction-relation": {
+    "youtubeId": "skcUqmzb-vY",
+    "title": "Fractions to Decimals — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-mon-make-amount": {
+    "youtubeId": "GtlL_5Ct5rU",
+    "title": "Making Amounts with Money — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-mea-word": {
+    "youtubeId": "XVU6zySketg",
+    "title": "Measurement Word Problems — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-par-perimeter-irregular": {
+    "youtubeId": "NwO363dyeOg",
+    "title": "Perimeter (Irregular Shapes) — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-tim-ampm": {
+    "youtubeId": "tuKzo6A-7iU",
+    "title": "a.m. & p.m. (12-Hour Clock) — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-geo-patterns": {
+    "youtubeId": "wfAyddSr9_w",
+    "title": "Patterns with Shapes — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-geo-open-closed": {
+    "youtubeId": "uOv98-1hEes",
+    "title": "Open & Closed Figures — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-geo-tiling": {
+    "youtubeId": "ZXU28FhYY_M",
+    "title": "Tiling & Tessellation — Periwinkle",
+    "channel": "Periwinkle"
+  },
+  "k5-dat-tables": {
+    "youtubeId": "gbScJ5LVqbo",
+    "title": "Organising Data (Tally Tables) — Periwinkle",
+    "channel": "Periwinkle"
   }
 }
