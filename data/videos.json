@@ -1349,5 +1349,65 @@
     "youtubeId": "tVeoN38z0mg",
     "title": "Picture Comprehension — Periwinkle",
     "channel": "Periwinkle"
+  },
+  "eng-k5-voc-months": {
+    "youtubeId": "V8E_42M36Vo",
+    "title": "Months of the Year — Jack Hartmann",
+    "channel": "Jack Hartmann"
+  },
+  "eng-k5-voc-feelings": {
+    "youtubeId": "eMOnyPxE_w8",
+    "title": "Feelings & Emotions — Fun Kids English",
+    "channel": "Fun Kids English"
+  },
+  "eng-k5-pho-compound-words": {
+    "youtubeId": "Cot0s7NO7cw",
+    "title": "Compound Words — Jack Hartmann",
+    "channel": "Jack Hartmann"
+  },
+  "eng-k5-voc-compound-meaning": {
+    "youtubeId": "Cot0s7NO7cw",
+    "title": "Compound Words — Jack Hartmann",
+    "channel": "Jack Hartmann"
+  },
+  "eng-k5-voc-sight-words": {
+    "youtubeId": "0h1Q7SVKG0A",
+    "title": "Sight Words — Jack Hartmann",
+    "channel": "Jack Hartmann"
+  },
+  "eng-k5-rdg-main-idea": {
+    "youtubeId": "4swFGRhQoMI",
+    "title": "What is a Main Idea? — Khan Academy",
+    "channel": "Khan Academy"
+  },
+  "eng-k5-rdg-title-match": {
+    "youtubeId": "4swFGRhQoMI",
+    "title": "What is a Main Idea? — Khan Academy",
+    "channel": "Khan Academy"
+  },
+  "evs-k5-dir-four-directions": {
+    "youtubeId": "ibLedhew2r0",
+    "title": "Cardinal Directions (N/S/E/W) — Learn Bright",
+    "channel": "Learn Bright"
+  },
+  "evs-k5-dir-sun-directions": {
+    "youtubeId": "ibLedhew2r0",
+    "title": "Cardinal Directions (N/S/E/W) — Learn Bright",
+    "channel": "Learn Bright"
+  },
+  "evs-k5-dir-locating-places": {
+    "youtubeId": "ibLedhew2r0",
+    "title": "Cardinal Directions (N/S/E/W) — Learn Bright",
+    "channel": "Learn Bright"
+  },
+  "evs-k5-dir-landmarks": {
+    "youtubeId": "ibLedhew2r0",
+    "title": "Cardinal Directions (N/S/E/W) — Learn Bright",
+    "channel": "Learn Bright"
+  },
+  "evs-k5-dir-simple-maps": {
+    "youtubeId": "ibLedhew2r0",
+    "title": "Cardinal Directions (N/S/E/W) — Learn Bright",
+    "channel": "Learn Bright"
   }
 }
