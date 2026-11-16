@@ -1,0 +1,34 @@
+# Keeps sdk/naklios.js identical to the canonical NakliOS SDK at https://naklios.dev/sdk/naklios.js, committing
+# straight to the default branch. The app pulls; NakliOS never pushes, so no cross-repo token is needed.
+name: Vendor naklios SDK
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 5 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  vendor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Fetch the canonical SDK
+        run: |
+          set -euo pipefail
+          curl -fsSL https://naklios.dev/sdk/naklios.js -o /tmp/naklios.js
+          # Refuse anything that is not the SDK (an error page, an empty body).
+          grep -q '@naklios-sdk-version' /tmp/naklios.js
+          grep -q 'window.naklios' /tmp/naklios.js
+          cp /tmp/naklios.js sdk/naklios.js
+      - name: Commit the refreshed SDK
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- sdk/naklios.js; then echo "sdk/naklios.js already matches canonical"; exit 0; fi
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- sdk/naklios.js
+          git commit -m 'chore: refresh sdk/naklios.js from canonical'
+          git push
